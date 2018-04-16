@@ -28,6 +28,7 @@ public class App
         teacher.setTeacherDetails(td);
        
          asdad
+         afagfag
         em.persist(teacher);*/
         
         
