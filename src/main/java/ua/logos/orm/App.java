@@ -27,7 +27,7 @@ public class App
         teacher.setDescription("MyDescription");
         teacher.setTeacherDetails(td);
        
-        
+         asdad
         em.persist(teacher);*/
         
         
